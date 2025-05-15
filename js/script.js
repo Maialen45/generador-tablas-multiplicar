@@ -29,7 +29,6 @@ function tablas() {
 			}</td>`;
 			fila.innerHTML = resultado;
 			cuerpoTabla.appendChild(fila);
-			// console.log([i, inputNum, i * inputNum]);
 		}
 	}
 }
