@@ -1,4 +1,4 @@
-# Generador de Tablas de Multiplicar — Proyecto Infantil
+# Generador de Tablas de Multiplicar
 
 Esta pequeña aplicación web genera las tablas de multiplicar de los números entre el 0 y el 10. Está diseñada con un estilo **infantil, colorido y divertido**, ideal para niños que están aprendiendo matemáticas.
 
